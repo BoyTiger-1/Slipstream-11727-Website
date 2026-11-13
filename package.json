@@ -1,0 +1,10 @@
+{
+  "name": "slipstream-11727-site",
+  "private": true,
+  "type": "module",
+  "description": "Website for FRC Team 11727 Slipstream, North Creek High School",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --serve"
+  }
+}
